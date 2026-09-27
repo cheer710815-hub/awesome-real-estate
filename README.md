@@ -564,6 +564,8 @@
 
 - [Phuket Condo Asking-Price Snapshot](https://kvartiry-phuket.com/en/phuket-condo-prices/) - CC BY 4.0 aggregate research covering 391 exact-URL-deduplicated Phuket condo sale-listing observations from April to July 2026, with methodology, limitations, charts, and downloadable CSV/JSON; asking prices, not transactions or active inventory.
 - [Bangkok Off-Plan Housing Pipeline](https://baanscope.com/data) - CC BY 4.0 aggregates of the residential construction underway in the Bangkok Metropolitan Region, compiled from the public listings of Thailand's nine largest listed developers and re-checked every two days; 81 districts, 9 developers and 6 completion years as CSV/JSON with a column dictionary, reporting project and unit counts, median asking prices and government-appraised land values rather than transactions.
+- [AptToSell Korea Housing Subscription Data](https://github.com/cheer710815-hub/apttosell-subscription-data) - CC BY 4.0 South Korea housing-subscription reference data covering the private-housing 84-point score structure and regional deposit requirements, with downloadable CSV/JSON, documented methodology, DOI-backed archives, and dated snapshots.
+- [Resimanor Korea Stress DSR Housing Finance Data](https://github.com/cheer710815-hub/resimanor-housing-finance-data) - CC BY 4.0 South Korea housing-finance reference data showing stress-DSR mortgage-limit scenarios by annual income and existing credit debt, with downloadable CSV/JSON, documented assumptions, DOI-backed archives, and dated snapshots.
 
 ### Construction & Building Technology
 
